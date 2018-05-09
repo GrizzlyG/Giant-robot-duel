@@ -1,5 +1,9 @@
-                           The Great Robot Duel
-                           --------------------
-What happens when two competing technology pioneers from opposite sides of the world build giant robots capable of combat...A duel is bound to settle the score.
+                          The Great Robot Duel
+                          --------------------
+ What happens when global technology giants just happen to possess giant fighting machines at the same time...A duel between them is bound to settle the score.
 
+
+<<<<<<< HEAD
  So was the case when an American Robot Company..going by the name of MechPrime ...challenged a Japanese Robotic Company,Katanajin to a giant robot duel. 
+=======
+>>>>>>> 3fa66e9a7f96b6617bf01116ede3be31ae0c6c93
